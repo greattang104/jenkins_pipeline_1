@@ -1,3 +1,4 @@
 #/bin/bash
 
-echo $NUMBERONE + $NUMBERTWO
+$result = $NUMBERONE + $NUMBERTWO
+echo $result
