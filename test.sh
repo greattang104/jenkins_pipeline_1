@@ -1,4 +1,4 @@
 #/bin/bash
 
-$result = $NUMBERONE + $NUMBERTWO
+result=`expr $NUMBERONE + $NUMBERTWO`
 echo $result
